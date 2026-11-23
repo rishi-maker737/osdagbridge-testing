@@ -58,8 +58,6 @@ osdagbridge-testing/
 
 - Demo video: **ADD VIDEO LINK**
 - GitHub issues raised on [Nidhikhare12/OsdagBridge](https://github.com/Nidhikhare12/OsdagBridge):
-  - D1: **ADD ISSUE LINK**
-  - D2: **ADD ISSUE LINK**
 
 ## Environment
 
